@@ -6,9 +6,10 @@ This repository will supply you with a clean and working version of Ionic-Vue.
 ```
 git clone https://github.com/RubenD96/clean-ionic-vue.git
 ```
-### Install plugins
+### Install plugins and compile dist
 ```
 npm i
+npm run build
 ```
 ### Add platforms
 ```
@@ -16,6 +17,7 @@ npx cap add android
 npx cap add ios
 ```
 
+## Run project
 ### Compiles and hot-reloads for development on browser
 ```
 npm run serve
