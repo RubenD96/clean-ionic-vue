@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "NimblEpp",
+  "appId": "ionic.vue.clean",
+  "appName": "Clean Vue App",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "dist",
