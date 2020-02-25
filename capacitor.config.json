@@ -1,5 +1,5 @@
 {
-  "appId": "nimble.chatapp",
+  "appId": "io.ionic.starter",
   "appName": "NimblEpp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
