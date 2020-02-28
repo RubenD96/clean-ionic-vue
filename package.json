@@ -5,6 +5,8 @@
   "scripts": {
     "ionic:build": "vue-cli-service build",
     "ionic:serve": "vue-cli-service serve",
+    "sync": "vue-cli-service build && npx cap sync",
+    "android": "android-install.bat",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
