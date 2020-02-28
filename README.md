@@ -34,3 +34,15 @@ To run the application on a mobile device a user has to open their native code p
 npx cap open android
 npx cap open ios
 ```
+
+## Install & Run application with Gradle
+After the android folder has been created with
+```
+npm i
+npm run build
+```
+Future builds can be created using Gradle by running the command
+```
+npm run android
+```
+Which runs the `android-install.bat`
